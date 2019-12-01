@@ -1,0 +1,9 @@
+ru\login\servlets\filter\AuthFilter.class
+ru\login\servlets\ContextListener.class
+ru\login\servlets\Logout.class
+ru\login\servlets\UserServlet.class
+ru\login\dao\UserDAO.class
+ru\login\model\User$Role.class
+ru\login\servlets\AdminServlet.class
+ru\login\servlets\RegisterServlet.class
+ru\login\model\User.class
